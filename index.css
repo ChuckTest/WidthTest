@@ -4,11 +4,6 @@
     border: solid 10px black;
 }
 
-.child-border {
-    border: solid 20px red;
-    height: 60px;
-}
-
 .width-auto-div {
     background-color: blue;
     width: auto;
@@ -25,4 +20,19 @@ body {
         linear-gradient(to right, grey 1px, transparent 1px),
         linear-gradient(to bottom, grey 1px, transparent 1px);
     margin: 10px;
+}
+
+.child-border {
+    border: solid 20px red;
+    height: 60px;
+}
+
+.child-padding{
+    padding-left: 40px;
+    height: 100px;
+}
+
+.child-margin{
+    margin-left: 40px;
+    height: 100px;
 }
