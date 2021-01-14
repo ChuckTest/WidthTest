@@ -4,15 +4,17 @@
     border: solid 10px black;
   }
   
-  .my-border{
+  .red-border{
     border: solid 20px red;
   }
   
-  .my-blue {
+  .width-auto-div {
       color: blue;
+      width: auto;
   }
   
-  .my-green {
+  .width-100-div {
       color: green;
+      width: 100%;
   }
   
