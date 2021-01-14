@@ -9,12 +9,12 @@
   }
   
   .width-auto-div {
-      color: blue;
+      background-color: blue;
       width: auto;
   }
   
   .width-100-div {
-      color: green;
+      background-color: green;
       width: 100%;
   }
   
